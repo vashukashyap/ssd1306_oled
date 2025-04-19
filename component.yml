@@ -1,0 +1,4 @@
+name: ssd1306_oled
+version: 0.0.1
+description: A custom ssd1306 oled library for ESP-IDF
+url : https://github.com/vashukashyap/ssd1306_oled
