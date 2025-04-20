@@ -51,6 +51,19 @@ More examples can be found in the examples/ directory.
 - basic.   
   ![1000013285](https://github.com/user-attachments/assets/874f723d-8018-4c94-a70c-0ce22eb146e3)
 
+- Multiple_buffer.  
+  ![1000013290](https://github.com/user-attachments/assets/f185b5b1-d028-40e8-a8ac-be79d686a115)
+
+- bitmap.  
+  ![1000013269](https://github.com/user-attachments/assets/04ee90a9-c08f-4b7a-9e64-767a20fb72a1)
+
+- multi_buffer_bitmap.   
+  ![1000013267](https://github.com/user-attachments/assets/e3c67ddf-bfb0-4375-ab1d-715bd00203c4)
+
+- scrolling.    
+  ![1000013291](https://github.com/user-attachments/assets/e84c3127-6bee-41a7-a5d0-9d8affec6f87)
+
+  
 
 ## 🙌 Contributions
 Feel free to open issues, suggest features, or submit pull requests.
