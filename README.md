@@ -48,6 +48,9 @@ Make sure to set the correct I2C pins in your main app. Example:
 
 ## Example Usage
 More examples can be found in the examples/ directory.
+- basic.   
+  ![1000013285](https://github.com/user-attachments/assets/874f723d-8018-4c94-a70c-0ce22eb146e3)
+
 
 ## 🙌 Contributions
 Feel free to open issues, suggest features, or submit pull requests.
